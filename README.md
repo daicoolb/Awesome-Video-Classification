@@ -1,4 +1,4 @@
-# Awesome-Video-Classfication
+# Awesome-Video-Classification
 video classification
 
 - [Attention Clusters: Purely Attention Based
